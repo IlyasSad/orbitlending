@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.12.1"
+  },
+  "scripts": {
+    "start": "ts-node Example.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
